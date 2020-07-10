@@ -15,6 +15,7 @@
 		ABA156DA24B8219600C28F95 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABA156D824B8219600C28F95 /* LaunchScreen.storyboard */; };
 		ABA156E524B8219600C28F95 /* SwiftUIStructureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA156E424B8219600C28F95 /* SwiftUIStructureTests.swift */; };
 		ABA156F024B8219600C28F95 /* SwiftUIStructureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA156EF24B8219600C28F95 /* SwiftUIStructureUITests.swift */; };
+		ABA156FE24B82B5D00C28F95 /* LeftMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABA156FD24B82B5D00C28F95 /* LeftMenu.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		ABA156EB24B8219600C28F95 /* SwiftUIStructureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SwiftUIStructureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABA156EF24B8219600C28F95 /* SwiftUIStructureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIStructureUITests.swift; sourceTree = "<group>"; };
 		ABA156F124B8219600C28F95 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ABA156FD24B82B5D00C28F95 /* LeftMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LeftMenu.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				ABA156CD24B8218F00C28F95 /* AppDelegate.swift */,
 				ABA156CF24B8218F00C28F95 /* SceneDelegate.swift */,
 				ABA156D124B8218F00C28F95 /* ContentView.swift */,
+				ABA156FD24B82B5D00C28F95 /* LeftMenu.swift */,
 				ABA156D324B8219600C28F95 /* Assets.xcassets */,
 				ABA156D824B8219600C28F95 /* LaunchScreen.storyboard */,
 				ABA156DB24B8219600C28F95 /* Info.plist */,
@@ -268,6 +271,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				ABA156CE24B8218F00C28F95 /* AppDelegate.swift in Sources */,
+				ABA156FE24B82B5D00C28F95 /* LeftMenu.swift in Sources */,
 				ABA156D024B8218F00C28F95 /* SceneDelegate.swift in Sources */,
 				ABA156D224B8218F00C28F95 /* ContentView.swift in Sources */,
 			);
